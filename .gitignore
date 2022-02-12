@@ -1,0 +1,4 @@
+*.py[cod]
+svg.py
+*.svg
+.DS_Store
