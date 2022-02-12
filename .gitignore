@@ -2,3 +2,7 @@
 svg.py
 *.svg
 .DS_Store
+/env
+/build
+/dist
+*.egg-info

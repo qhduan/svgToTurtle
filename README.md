@@ -4,14 +4,13 @@ to [https://www.visioncortex.org/vtracer/](https://www.visioncortex.org/vtracer/
 
 setting could like this: ![vtracer](imgs/vtracer.png)
 
-and run:
+Install:
 
-`python3 main.py downloaded-svg.svg`
+`pip install svg2turtle`
+
+`svg2turtle downloaded-svg.svg`
 
 will generate `svg.py`
-
-run `python3 svg.py` will draw again
-
 
 # svg-to-turtle
 Creating a turtle path using an svg
